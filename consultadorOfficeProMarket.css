@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #efefef;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -56,4 +56,5 @@ body {
     box-shadow: none; /* Quitamos sombra al input porque la tiene el grupo */
     background-color: #ffff;
 }
+
 
